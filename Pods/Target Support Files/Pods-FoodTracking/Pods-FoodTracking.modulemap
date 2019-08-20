@@ -1,0 +1,6 @@
+framework module Pods_FoodTracking {
+  umbrella header "Pods-FoodTracking-umbrella.h"
+
+  export *
+  module * { export * }
+}
